@@ -1,0 +1,28 @@
+name: hmmmm
+favicon: null
+layout_spectrum: 0.031128135044127703
+typography_spectrum: 0.06245423527434468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.23471393901854753
+  lightness: 0.8859189562499523
+  saturation: 0.29949211492203176
+  rhythmicContrast: 0.7227686753030866
+purpose: []
